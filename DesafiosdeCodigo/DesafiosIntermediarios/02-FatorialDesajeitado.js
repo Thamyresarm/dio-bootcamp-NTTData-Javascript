@@ -1,16 +1,15 @@
-numero = "-1"
+numero = "4"
 
 let lines = numero.split("\n"); 
 
 let n = parseInt(lines.shift()); 
-
 let res = 0;
 let cnt = 1;
 let tmp = n;
 
 if (n === 1) {
-    res = n;
-  }
+  res = n;
+}
 
 n--;
 
