@@ -1,6 +1,8 @@
 # DIO Bootcamp NTTData Javascript
 Repositório Criado para inserir os desafios de códigos realizados no Bootcamp NTT Data Diversidade em Tech com foco em Javascript realizado na DIO
 
+![image](https://user-images.githubusercontent.com/24790794/211226904-6e673911-df7e-4161-a9e0-d582bf647bec.png)
+
 ## Autor
 
 <a href="https://www.linkedin.com/in/thamyres-magalhaes/">
